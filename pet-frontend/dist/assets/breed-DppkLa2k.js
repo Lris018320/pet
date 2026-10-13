@@ -1,0 +1,1 @@
+import{S as r}from"./index-C5AYNFPr.js";function n(e){return r({url:"/breed/list",method:"get",params:e})}function u(e){return r({url:`/breed/${e}`,method:"get"})}function a(e){return r({url:"/breed/by-name",method:"get",params:{name:e}})}export{u as a,a as g,n as l};
