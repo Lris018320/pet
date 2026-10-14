@@ -1,0 +1,22 @@
+# ===== 前端 =====
+# 依赖
+pet-frontend/node_modules/
+# 构建产物
+pet-frontend/dist/
+
+# ===== 后端 =====
+# Maven 编译产物
+pet-backend/target/
+
+# ===== 运行日志 =====
+*.log
+logs/
+
+# ===== IDE =====
+.idea/
+*.iml
+.vscode/
+
+# ===== 系统文件 =====
+Thumbs.db
+.DS_Store
